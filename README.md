@@ -1,2 +1,19 @@
-# sketchyoutube
-A Vue.js application for managing YouTube scripts. Organize scenes by sections and shots, and use timestamps to estimate durations. 
+# sketch_youtube
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
